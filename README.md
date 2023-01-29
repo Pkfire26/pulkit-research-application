@@ -16,10 +16,10 @@ Replace the '1' with '0' in the line with "Unattended-Upgrade" and save the file
 `sudo apt install gcc`
 
 ### Install linux-headers
-sudo apt install linux-headers-$(uname -r)
+`sudo apt install linux-headers-$(uname -r)`
 
 ### Install Build Essentials
-sudo apt install build-essential
+`sudo apt install build-essential`
 
 ## Run
 
